@@ -1,6 +1,13 @@
 h1{
+<<<<<<< HEAD
     color: green;
+=======
+    color: yellow;
+>>>>>>> 1f6a018ee2caefaa85e63318dcc625d3c4cb7493
 }
 p{
     color: blue;
+}
+table{
+    color: lightskyblue;
 }
